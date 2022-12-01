@@ -1,0 +1,56 @@
+* {margin: 0; }
+
+html {
+    scroll-behavior: smooth;
+    background-color: #ebebeb;
+}
+
+.img-carrossel {
+    object-fit: cover;
+    height: 575px;
+}
+
+.font-title {
+    font-family: 'Alexandria', sans-serif; 
+}
+
+.font-txt {
+    font-family: 'Roboto', sans-serif;;
+}
+
+
+.fundoq {
+    background-color: #eeeeee;
+}
+
+.fundot {
+    background-color: #6ef4d4;
+}
+
+.cor-titulo1 {
+    color: #1ca8a0;
+}
+
+.cor-titulo2 {
+    color: #fff;
+}
+
+.borda {
+    border: #fff solid 3px;
+}
+
+.modal-sheet .modal-dialog {
+  width: 380px;
+  transition: bottom .75s ease-in-out;
+}
+.modal-sheet .modal-footer {
+  padding-bottom: 2rem;
+}
+
+.modal-alert .modal-dialog {
+  width: 380px;
+}
+
+.modal-tour .modal-dialog {
+  width: 380px;
+}
